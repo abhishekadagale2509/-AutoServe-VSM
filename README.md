@@ -1186,4 +1186,8 @@ This project was developed for **educational and academic purposes**.
 
 **React • Spring Boot • MySQL • Spring Security • Razorpay • Microservices**
 
+<<<<<<< HEAD
 </div>
+=======
+</div>
+>>>>>>> 184eb2399be3bcdb1dc8ffeeb55de6f02510ba15
