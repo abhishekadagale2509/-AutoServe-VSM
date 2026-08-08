@@ -1,0 +1,44 @@
+#############################
+# Backend (Spring Boot)
+#############################
+
+Backend/target/
+Backend/.classpath
+Backend/.project
+Backend/.settings/
+Backend/.factorypath
+
+#############################
+# Frontend (React)
+#############################
+
+Frontend/node_modules/
+Frontend/dist/
+Frontend/.vite/
+
+#############################
+# IDE
+#############################
+
+.vscode/
+.idea/
+*.iml
+
+#############################
+# Logs
+#############################
+
+*.log
+
+#############################
+# Operating System
+#############################
+
+Thumbs.db
+.DS_Store
+
+#############################
+# Environment Files
+#############################
+
+.env
