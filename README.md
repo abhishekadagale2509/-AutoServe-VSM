@@ -813,7 +813,7 @@ The project currently includes demo credentials for local testing and academic/p
 | Role | Email | Password |
 |------|-------|----------|
 | 🛡️ **ADMIN** | `admin@autoserve.com` | `Admin@123` |
-| 👤 **CUSTOMER** | `aditya@gmail.com` | `Password@123` |
+| 👤 **CUSTOMER** | `abhishek@gmail.com` | `Password@123` |
 | 🔧 **MECHANIC** | `amit@gmail.com` | `Amit@123` |
 
 The Login page also provides **Quick Demo Login Autofill** buttons for these accounts.
